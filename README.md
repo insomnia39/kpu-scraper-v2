@@ -3,7 +3,7 @@ This is faster version of kpu-scraper. I got some limitations on Node Js, one of
 
 # How To
 1. Build the project
-2. Get the .exe file inside bin file (kpu-scraper-v2.exe)
+2. Get the .exe file inside bin folder (kpu-scraper-v2.exe)
 3. Copy those .exe file and index.js (main folder) to your folder
 4. Run the .exe file to get vote data on that day
 5. Run the index.js file (cmd: node index.js)
